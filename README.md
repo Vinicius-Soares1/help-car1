@@ -25,7 +25,7 @@ HelpCar é um aplicativo inovador que conecta usuários ao serviço de guincho m
 3. Execute o aplicativo:
    ```bash
     npm start```
-	
+```	
 ## Contribuições
 Contribuições são bem-vindas! Por favor, abra um pull request ou issue se você tiver alguma sugestão ou melhoria.
 
