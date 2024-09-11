@@ -31,6 +31,7 @@ Contribuições são bem-vindas! Por favor, abra um pull request ou issue se voc
 
 ## Website
 Para saber mais sobre nossos serviços de guincho e assistência emergencial, visite o site oficial do [HelpCar - Aplicativo de Guincho e Serviços de Emergência](https://www.helpcar.me).
+https://www.helpcar.me/
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
